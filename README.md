@@ -7,7 +7,7 @@
   
   <img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/e99fdca5-c5d5-4c6a-8f27-a702abcca546" />
 
-    <img width="753" height="967" alt="image" src="https://github.com/user-attachments/assets/3d2055fc-88a1-48e7-96c8-c0de756b2a66" />
+  <img width="745" height="954" alt="image" src="https://github.com/user-attachments/assets/59abf5bd-a67b-4ec8-9874-de75fb2822aa" />
 
 2. Halaman List Product
    <img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/12a0d6c9-27cd-41a9-b060-a9f2a3c74645" />
